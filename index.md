@@ -30,7 +30,7 @@ Easily keep a list of books you’ve read, books you’re reading, and books you
 * Export and import all your data
 * No online account or signup needed
 * All data is private and stored only on-device
-* Fully [open source](https://github.com/AndrewBennet/readinglist), released under the [MIT Licence](https://github.com/AndrewBennet/readinglist/blob/master/LICENSE)
+* Fully [open source](https://github.com/AndrewBennet/readinglist)
 
 
 <br />
