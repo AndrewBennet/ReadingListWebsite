@@ -5,6 +5,7 @@ description: Reading List, on iPhone, iPad and iPod touch, is an app to track an
 
 # Build settings
 markdown: kramdown
+include: ["_redirects"]
 exclude: ["README.md"]
 sass:
   sass_dir: _sass
