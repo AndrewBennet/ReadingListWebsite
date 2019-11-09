@@ -25,13 +25,13 @@ Easily keep a list of books you’ve read, books you’re reading, and books you
 * Create custom lists to organise your books
 * Record your current page number of the books you're reading
 * Add your own rating and notes to each book
-* Dark mode themes: easy on the eyes at night-time
 
 ## Free & Open
 * Export and import all your data
 * No online account or signup needed
 * All data is private and stored only on-device
 * Fully [open source](https://github.com/AndrewBennet/readinglist)
+* No ads!
 
 <br />
 By [Andrew Bennet](https://andrewbennet.com) ([GitHub](https://github.com/AndrewBennet), [Twitter](https://twitter.com/AndrewBennet))
